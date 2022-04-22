@@ -1,0 +1,19 @@
+Name of the company Sinderella 
+ 
+Explore the correlation between age and salary 
+ 
+[1] "/Users/talverinat/Documents/R-project/КФУ Анализ данных в R/Company"
+[1] "Sinderella"
+[1] "/Users/talverinat/Documents/R-project/КФУ Анализ данных в R/Company/Sinderella.csv"
+
+	Pearson's product-moment correlation
+
+data:  data[, 2] and data[, 3]
+t = -0.79185, df = 118, p-value = 0.43
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.2487033  0.1079451
+sample estimates:
+        cor 
+-0.07270296 
+
