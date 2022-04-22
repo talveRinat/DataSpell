@@ -1,0 +1,9 @@
+
+fib.cpp - Файл с C++ функцией
+
+libfib.so - Файл собранной из fib.cpp shared library
+
+
+Команда для самостоятельной сборки shared library:
+
+g++ -shared -o libfib.so -fPIC fib.cpp
