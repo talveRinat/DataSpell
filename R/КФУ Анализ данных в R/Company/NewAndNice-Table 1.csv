@@ -1,0 +1,87 @@
+sirname;age;salary;Department;gender
+Aguilar;71;18050;Research & Development;male
+Allen;54;15250;Information Technology;male
+Alvarez;48;11850;Information Technology;female
+Arnold;44;20250;Information Technology;male
+Baker;44;21600;Human Resources;female
+Becker;41;11600;Research & Development;male
+Bell;53;17600;Finance Department;male
+Black;48;14200;Administration;female
+Brady;62;16050;Finance Department;male
+Burrows;53;18300;Information Technology;male
+Byrne;23;19950;Information Technology;male
+Caldwell;50;16650;Human Resources;female
+Carr;25;12150;Research & Development;female
+Coates;50;22300;Research & Development;male
+Cohen;20;21000;Information Technology;male
+Cole;53;21550;Information Technology;male
+Cummings;21;19100;Research & Development;male
+Davis;66;21000;Information Technology;female
+Day;30;19450;Research & Development;female
+Dominguez;51;18900;Information Technology;male
+Drake;65;18150;Information Technology;male
+Duncan;63;16900;Information Technology;male
+Edwards;43;19900;Information Technology;female
+Flores;54;17250;Research & Development;male
+Fowler;49;14850;Administration;male
+Frank;74;16300;Information Technology;female
+Franklin;67;18350;Finance Department;male
+Garza;73;18400;Information Technology;male
+George;56;19000;Research & Development;male
+Graham;63;21550;Research & Development;female
+Grant;37;21900;Finance Department;male
+Griffin;60;19300;Finance Department;male
+Griffiths;49;11800;Administration;male
+Hall;37;19050;Research & Development;female
+Hancock;42;13200;Research & Development;female
+Harris;61;24600;Information Technology;male
+Harvey;53;18900;Information Technology;male
+Haynes;70;22850;Research & Development;male
+Henry;42;12750;Finance Department;male
+Hodgson;70;12600;Finance Department;female
+Howell;50;18950;Research & Development;female
+Hughes;60;13850;Human Resources;female
+Humphreys;22;15950;Finance Department;male
+Ingram;56;20550;Administration;male
+Jacobs;30;20400;Research & Development;female
+Jefferson;34;19000;Information Technology;male
+Kelly;25;17850;Research & Development;female
+Lane;44;15500;Administration;female
+Larson;73;24800;Information Technology;female
+Lawson;47;20700;Information Technology;male
+Le;59;12150;Information Technology;female
+Lynch;59;14850;Administration;male
+Macdonald;40;20550;Information Technology;male
+Mccoy;20;10950;Research & Development;male
+Mckinney;67;22400;Human Resources;male
+Medina;75;11250;Finance Department;female
+Miller;41;17500;Research & Development;male
+Morales;55;19550;Research & Development;male
+Morton;29;12400;Information Technology;female
+Nicholls;40;16100;Information Technology;male
+O'Reilly;50;19700;Research & Development;male
+Perry;29;13650;Human Resources;male
+Pratt;68;16050;Research & Development;male
+Price;49;20700;Research & Development;male
+Price;45;15400;Research & Development;female
+Rios;30;21500;Information Technology;male
+Robinson;68;15000;Research & Development;male
+Roman;27;14200;Information Technology;male
+Ross;65;18000;Research & Development;female
+Rowe;55;23350;Human Resources;male
+Russell;58;12700;Information Technology;male
+Sandoval;32;11000;Administration;male
+Scott;32;14450;Research & Development;male
+Solis;44;11950;Human Resources;male
+Stephens;71;12500;Research & Development;male
+Sullivan;38;21550;Research & Development;female
+Sweeney;66;21950;Research & Development;male
+Tate;40;22300;Information Technology;male
+Wang;45;13050;Information Technology;male
+Warren;45;12550;Finance Department;female
+Waters;50;20400;Finance Department;female
+White;51;22950;Finance Department;male
+Williams;26;22750;Research & Development;male
+Williams;42;15750;Finance Department;male
+Williamson;31;16400;Information Technology;female
+Wood;36;10750;Administration;male
