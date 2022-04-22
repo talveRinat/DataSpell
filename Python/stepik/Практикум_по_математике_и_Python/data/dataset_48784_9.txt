@@ -1,0 +1,2 @@
+Anaconda, a hidden variant of Snake (video game) in the TimeSplitters series.
+Anaconda offers a text-mode and GUI mode, so users can install on a wide range of systems.
